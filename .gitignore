@@ -1,0 +1,11 @@
+/node_modules
+/build
+/build/static
+/dist/
+yarn-error.log
+selenium-debug.log
+test/functional/reports/
+variables.js
+.vscode/
+.env
+
